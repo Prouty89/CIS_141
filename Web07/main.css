@@ -1,0 +1,51 @@
+body{
+	margin: 0px;
+	background: #D1F6E4;
+	font-family: roboto;
+	
+
+}
+
+h1{
+	color: #EDF6D1;
+	font-size: 3rem;
+	background: #B4D4BC;
+	padding: 10px;
+	text-align: center;
+	margin-block-start: 0em;
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+footer{
+	margin-left: 20px;
+	margin-block-start: 32px;
+    margin-block-end: 32px;
+}
+
+nav{
+	margin: 5px;
+	font-size: 2rem;
+}
+
+a{
+	text-decoration: none;
+	color: #3d5000;
+}
+
+h2{
+	padding-inline-start: 40px;
+}
+
+h3{
+	padding-inline-start: 40px;
+}
+
+p{
+	padding-inline-start: 40px;
+	max-width: 500px;
+	text-align: justify;
+}
+
+.describe{
+	padding-inline-start: 40px;
+}
