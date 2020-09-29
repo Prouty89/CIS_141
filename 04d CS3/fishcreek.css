@@ -1,0 +1,50 @@
+
+:root{
+	--bg-white: #ffffff;
+	--main-bg-color: #F0F0F0;
+	--header-color: #003366;
+	--font-color-one: #5280C5;
+	--font-color-two: #AEC3E3;
+}
+
+html{
+	background: var(--bg-white);
+}
+
+body{
+	background-color: var(--main-bg-color);
+	color: var(--header-color);
+	font-family: Arial;
+	width: 80%;
+	margin: 0 auto;
+}
+
+h1{
+	background: var(--header-color);
+	color: var(--font-color-two);
+	font-family: Georgia;
+	line-height: 200%;
+	text-indent: 1em;
+}
+
+dt{
+	color: var(--font-color-one);
+	font-size: 1.1em;
+	font-weight: bold;
+	font-family: Georgia;
+}
+
+footer{
+	font-size: .7em;
+	font-style: italic;
+}
+
+.category{
+	font-weight: bold;
+	color: #5280C5;
+	font-family: Georgia;
+}
+
+.nav-link{
+	font-weight: bold;
+}
