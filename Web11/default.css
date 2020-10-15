@@ -1,0 +1,20 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+}
+
+#wrapper{
+	background-color: #ccaa66;
+	width: 400px;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 5px;
+	border-radius: 10px;
+	box-shadow: 5px, 5px, 5px #828282;
+}
+
+figcaption{
+	text-align: center; 
+}
